@@ -23,3 +23,12 @@
 ![XPath](https://img.shields.io/badge/XPath-FF4500?style=for-the-badge)
 ![Mobile Testing](https://img.shields.io/badge/MobileTesting-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2B2E4A?style=for-the-badge)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dilarakstk&theme=gruvbox&no-frame=true&row=2&column=4)
+
+## 📊 GitHub Stats
+
+![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilarakstk&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilarakstk&layout=compact&theme=gruvbox)
