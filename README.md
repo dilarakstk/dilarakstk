@@ -32,3 +32,10 @@
 
 ![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilarakstk&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilarakstk&layout=compact&theme=gruvbox)
+
+## 📄 Certificates
+
+•⁠  ⁠[Cydeo SDET Certificate](https://github.com/dilarakstk/certificates/blob/main/1.pdf)
+•⁠  ⁠[Cydeo API Testing Certificate](https://github.com/dilarakstk/certificates/blob/main/2pdf.pdf)
+•⁠  ⁠[Cydeo UI Testing Certificate](https://github.com/dilarakstk/certificates/blob/main/3pdf.pdf)
+•⁠  ⁠[Cydeo SQL Certificate](https://github.com/dilarakstk/certificates/blob/main/4pdf.pdf)
