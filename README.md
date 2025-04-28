@@ -44,5 +44,5 @@
 •⁠  https://github.com/dilarakstk/certificates/blob/main/3pdf.pdf 
   Web automation using Selenium WebDriver and Cucumber.
 
-•⁠  ⁠[Cydeo SQL Certificate](sertifika_linkin)  
+•⁠  ⁠https://github.com/dilarakstk/certificates/blob/main/4pdf.pdf
   SQL fundamentals and advanced queries for database validation.
