@@ -38,7 +38,7 @@
 •⁠  https://github.com/dilarakstk/certificates/blob/main/1.pdf
   Covers end-to-end software development engineer in test processes including Java, Selenium, API testing, CI/CD.
 
-•⁠ https://github.com/dilarakstk/certificates/blob/main/2pdf.pdf 
+https://github.com/dilarakstk/certificates/raw/main/2pdf.pdf
   Focuses on REST API testing with Postman and Rest Assured.
 
 •⁠  https://github.com/dilarakstk/certificates/blob/main/3pdf.pdf 
