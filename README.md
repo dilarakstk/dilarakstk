@@ -44,5 +44,5 @@ https://github.com/dilarakstk/certificates/raw/main/2pdf.pdf
 https://github.com/dilarakstk/certificates/raw/main/3pdf.pdf
   Web automation using Selenium WebDriver and Cucumber.
 
-•⁠  ⁠https://github.com/dilarakstk/certificates/blob/main/4pdf.pdf
+https://github.com/dilarakstk/certificates/raw/main/4pdf.pdf
   SQL fundamentals and advanced queries for database validation.
