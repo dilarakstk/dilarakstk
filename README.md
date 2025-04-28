@@ -33,6 +33,20 @@
 ![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilarakstk&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilarakstk&layout=compact&theme=gruvbox)
 
+## 🎓 Education & Certifications
+
+•⁠  ⁠🎯 *Cydeo SDET Program*  
+  - Java, Selenium WebDriver, Cucumber, JUnit, TestNG, Postman, RestAssured, SQL (Oracle, MySQL), JDBC, Jenkins, Git & GitHub, IntelliJ IDEA, Maven, JIRA, Mobile Testing, CI/CD
+  - Completed intensive training on automation frameworks, API testing, and database validation.
+
+•⁠  ⁠📜 *Certifications:*  
+  - ✅ *Cydeo SDET Certificate* (2025)  
+  - ✅ *API Testing Mastery (Postman & RestAssured)*  
+  - ✅ *Mobile Testing with Appium & Emulator Setup*
+
+
+
+
 ## 📜 Certificates:
 https://github.com/dilarakstk/certificates/raw/main/1.pdf
   Covers end-to-end software development engineer in test processes including Java, Selenium, API testing, CI/CD.
