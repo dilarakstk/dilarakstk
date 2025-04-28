@@ -35,7 +35,7 @@
 
 ## 📜 Certificates:
 
-•⁠  ⁠[Cydeo SDET Certificate](sertifika_linkin)  
+•⁠  https://github.com/dilarakstk/certificates/blob/main/1.pdf
   Covers end-to-end software development engineer in test processes including Java, Selenium, API testing, CI/CD.
 
 •⁠  ⁠[Cydeo API Testing Certificate](sertifika_linkin)  
