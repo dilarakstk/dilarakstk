@@ -33,9 +33,16 @@
 ![Dilara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dilarakstk&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilarakstk&layout=compact&theme=gruvbox)
 
-## 📄 Certificates
+## 📜 Certificates:
 
-•⁠  ⁠[Cydeo SDET Certificate](https://github.com/dilarakstk/certificates/blob/main/1.pdf)
-•⁠  ⁠[Cydeo API Testing Certificate](https://github.com/dilarakstk/certificates/blob/main/2pdf.pdf)
-•⁠  ⁠[Cydeo UI Testing Certificate](https://github.com/dilarakstk/certificates/blob/main/3pdf.pdf)
-•⁠  ⁠[Cydeo SQL Certificate](https://github.com/dilarakstk/certificates/blob/main/4pdf.pdf)
+•⁠  ⁠[Cydeo SDET Certificate](sertifika_linkin)  
+  Covers end-to-end software development engineer in test processes including Java, Selenium, API testing, CI/CD.
+
+•⁠  ⁠[Cydeo API Testing Certificate](sertifika_linkin)  
+  Focuses on REST API testing with Postman and Rest Assured.
+
+•⁠  ⁠[Cydeo UI Testing Certificate](sertifika_linkin)  
+  Web automation using Selenium WebDriver and Cucumber.
+
+•⁠  ⁠[Cydeo SQL Certificate](sertifika_linkin)  
+  SQL fundamentals and advanced queries for database validation.
