@@ -41,7 +41,7 @@
 https://github.com/dilarakstk/certificates/raw/main/2pdf.pdf
   Focuses on REST API testing with Postman and Rest Assured.
 
-•⁠  https://github.com/dilarakstk/certificates/blob/main/3pdf.pdf 
+https://github.com/dilarakstk/certificates/blob/main/3pdf.pdf
   Web automation using Selenium WebDriver and Cucumber.
 
 •⁠  ⁠https://github.com/dilarakstk/certificates/blob/main/4pdf.pdf
