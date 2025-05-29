@@ -59,3 +59,7 @@ https://github.com/dilarakstk/certificates/raw/main/3pdf.pdf
 
 https://github.com/dilarakstk/certificates/raw/main/4pdf.pdf
   SQL fundamentals and advanced queries for database validation.
+
+  ## 🌐 Freelance Hizmetim
+
+🎯 [Postman ile API Testi Yapıyorum (Fiverr Gig)](https://www.fiverr.com/codedbydilos/test-your-api-with-postman-and-deliver-a-detailed-bug-report)
