@@ -62,4 +62,11 @@ https://github.com/dilarakstk/certificates/raw/main/4pdf.pdf
 
   ## 🌐 Freelance Hizmetim
 
-🎯 [Postman ile API Testi Yapıyorum (Fiverr Gig)](https://www.fiverr.com/codedbydilos/test-your-api-with-postman-and-deliver-a-detailed-bug-report)
+
+## 💼 Freelance Hizmetlerim
+
+•⁠  ⁠🔧 [Postman ile API Testi Yapıyorum – Fiverr Gig’i](https://www.fiverr.com/codedbydilos/test-your-api-with-postman-and-deliver-a-detailed-bug-report)
+  API'lerinizi manuel olarak test edip detaylı hata raporları sunuyorum.
+
+•⁠  ⁠📱 [Sosyal Medya Danışmanlığı – Fiverr](https://www.fiverr.com/s/Ay2DLqa)  
+  Sosyal medya stratejilerinizi güçlendirmek için bana Fiverr üzerinden ulaşabilirsiniz.
