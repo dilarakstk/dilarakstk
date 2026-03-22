@@ -1,3 +1,8 @@
+# 🚀 QA Automation Engineer | API & UI Testing
+
+I build scalable QA automation systems that reduce manual testing effort and improve software reliability.
+
+---
 
   ## 🚀 Featured Project
 
@@ -7,6 +12,9 @@
 - Includes JSON validation
 - Uses reusable RequestSpecification structure
 - Uses config-based environment setup
+
+🔗 https://github.com/dilarakstk/qa-api-framework
+
 
 ## 📊 Impact
 - Automated 30+ test cases
@@ -25,6 +33,10 @@
 🎯 QA Automation Engineer (SDET) | Passionate about Quality Assurance & Test Automation  
 💻 Skilled in Java, Selenium WebDriver, API Testing, CI/CD, and more!  
 🚀 Always learning, always improving | Cydeo Certified
+✔ API Testing specialist  
+✔ Clean architecture mindset  
+✔ Continuous improvement
+
 
 ## 🛠️ Languages and Tools:
 
@@ -82,7 +94,14 @@ https://github.com/dilarakstk/certificates/raw/main/3pdf.pdf
 https://github.com/dilarakstk/certificates/raw/main/4pdf.pdf
   SQL fundamentals and advanced queries for database validation.
 
-  ## 🌐 Freelance Hizmetim
+
+## 💼 Freelance
+
+✔ API Testing (Manual & Automation)  
+✔ Bug reporting & QA documentation  
+
+---
+
 
 
 ## 💼 Freelance Hizmetlerim
@@ -92,4 +111,7 @@ https://github.com/dilarakstk/certificates/raw/main/4pdf.pdf
 
 •⁠  ⁠📱 [Sosyal Medya Danışmanlığı – Fiverr](https://www.fiverr.com/s/Ay2DLqa)  
   Sosyal medya stratejilerinizi güçlendirmek için bana Fiverr üzerinden ulaşabilirsiniz.
+
+
+
 
