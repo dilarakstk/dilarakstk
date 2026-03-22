@@ -1,3 +1,25 @@
+
+  ## 🚀 Featured Project
+
+### API Test Automation Framework
+- Built with Java, RestAssured, and TestNG
+- Supports CRUD operations (GET, POST, PUT, DELETE)
+- Includes JSON validation
+- Uses reusable RequestSpecification structure
+- Uses config-based environment setup
+
+## 📊 Impact
+- Automated 30+ test cases
+- Reduced manual testing effort
+- Improved test coverage for API endpoints
+
+## 🧠 Testing Approach
+- API validation strategies
+- Test case design
+- Boundary value analysis
+- Reusable automation architecture
+
+
 # 👋 Hi there, I'm Dilara Kıstak!
 
 🎯 QA Automation Engineer (SDET) | Passionate about Quality Assurance & Test Automation  
@@ -71,23 +93,3 @@ https://github.com/dilarakstk/certificates/raw/main/4pdf.pdf
 •⁠  ⁠📱 [Sosyal Medya Danışmanlığı – Fiverr](https://www.fiverr.com/s/Ay2DLqa)  
   Sosyal medya stratejilerinizi güçlendirmek için bana Fiverr üzerinden ulaşabilirsiniz.
 
-
-  ## 🚀 Featured Project
-
-### API Test Automation Framework
-- Built with Java, RestAssured, and TestNG
-- Supports CRUD operations (GET, POST, PUT, DELETE)
-- Includes JSON validation
-- Uses reusable RequestSpecification structure
-- Uses config-based environment setup
-
-## 📊 Impact
-- Automated 30+ test cases
-- Reduced manual testing effort
-- Improved test coverage for API endpoints
-
-## 🧠 Testing Approach
-- API validation strategies
-- Test case design
-- Boundary value analysis
-- Reusable automation architecture
